@@ -1,4 +1,4 @@
-# 🌍 COVID-19 Global Data Tracker
+#  COVID-19 Global Data Tracker
 
 A Python-based data analysis and visualization project that tracks and explores COVID-19 trends worldwide using real-world data.
 
@@ -28,16 +28,14 @@ A Python-based data analysis and visualization project that tracks and explores 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/covid19-global-tracker.git
+   git clone https://github.com/clarris-c/covid19-global-tracker.git
 Open the notebook:
-
 Launch Jupyter Notebook.
-
 Run covid19_global_tracker.ipynb from start to finish.
 ### 3. Final Check
 - [ ] Run your notebook from **top to bottom**.
 - [ ] Make sure:
-  _ All outputs are shown.
+  -All outputs are shown.
   - There are **no errors**.
   - Charts and tables render correctly.
 
