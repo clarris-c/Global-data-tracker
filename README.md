@@ -22,14 +22,12 @@ A Python-based data analysis and visualization project that tracks and explores 
 - Seaborn
 - Jupyter Notebook
 
----
-
 ##  How to Run the Project
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/clarris-c/covid19-global-tracker.git
-Open the notebook:
+2. Open the notebook:
 Launch Jupyter Notebook.
 Run covid19_global_tracker.ipynb from start to finish.
 ### 3. Final Check
